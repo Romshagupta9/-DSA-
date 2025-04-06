@@ -23,4 +23,12 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Romshagupta9/-DSA-/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
