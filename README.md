@@ -29,6 +29,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0020-valid-parentheses) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Tree
 |  |
 | ------- |
@@ -64,4 +66,8 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 <!---LeetCode Topics End-->
