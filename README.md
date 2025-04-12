@@ -69,5 +69,10 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Math
 |  |
 | ------- |
+| [2998-count-symmetric-integers](https://github.com/Romshagupta9/-DSA-/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Romshagupta9/-DSA-/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
