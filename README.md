@@ -74,6 +74,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Romshagupta9/-DSA-/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/Romshagupta9/-DSA-/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Romshagupta9/-DSA-/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -91,6 +92,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Romshagupta9/-DSA-/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/Romshagupta9/-DSA-/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
