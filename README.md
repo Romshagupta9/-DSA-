@@ -59,6 +59,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0503-next-greater-element-ii) |
 | [1656-count-good-triplets](https://github.com/Romshagupta9/-DSA-/tree/master/1656-count-good-triplets) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Romshagupta9/-DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
