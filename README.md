@@ -33,6 +33,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Romshagupta9/-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Romshagupta9/-DSA-/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Romshagupta9/-DSA-/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Romshagupta9/-DSA-/tree/master/1894-merge-strings-alternately) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -64,6 +65,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0053-maximum-subarray](https://github.com/Romshagupta9/-DSA-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Romshagupta9/-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Romshagupta9/-DSA-/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0503-next-greater-element-ii) |
