@@ -33,6 +33,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Romshagupta9/-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Romshagupta9/-DSA-/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/Romshagupta9/-DSA-/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/Romshagupta9/-DSA-/tree/master/1894-merge-strings-alternately) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
@@ -42,6 +43,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0038-count-and-say](https://github.com/Romshagupta9/-DSA-/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/Romshagupta9/-DSA-/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Romshagupta9/-DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Romshagupta9/-DSA-/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
