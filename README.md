@@ -41,6 +41,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Romshagupta9/-DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Romshagupta9/-DSA-/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0151-reverse-words-in-a-string) |
@@ -196,4 +197,8 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Romshagupta9/-DSA-/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Romshagupta9/-DSA-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
