@@ -12,7 +12,7 @@ class Solution {
             if(s.charAt(i) != ' '){
                 length++;
             }
-            else if(length > 0){
+            else{
                 break;
             }
         }
