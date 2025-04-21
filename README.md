@@ -45,6 +45,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0014-longest-common-prefix](https://github.com/Romshagupta9/-DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Romshagupta9/-DSA-/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Romshagupta9/-DSA-/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0392-is-subsequence) |
