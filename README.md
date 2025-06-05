@@ -121,6 +121,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0226-invert-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0226-invert-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0226-invert-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
 ## Math
 |  |
 | ------- |
