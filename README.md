@@ -123,6 +123,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0226-invert-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0226-invert-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0226-invert-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -222,6 +225,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0226-invert-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Romshagupta9/-DSA-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Sliding Window
 |  |
