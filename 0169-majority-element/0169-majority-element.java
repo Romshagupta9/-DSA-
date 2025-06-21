@@ -12,25 +12,25 @@ class Solution {
         //     }
         // }
         // return index;
-        int count = 0;
-        int candidate = 0;
-        
-// for (int i = 0; i < nums.length; i++) {
-//     if (count == 0) {
-//         candidate = nums[i];
-//     }
-
-//     if (nums[i] == candidate) {
-//         count++;
-//     } else {
-//         count--;
-//     }
-// }
-// return candidate;
 
 
-        Arrays.sort(nums);
-        int n = nums.length;
-        return nums[n/2];
+       int count=0;
+       int vip=0;
+       for(int i=0;i<nums.length;i++){
+        if(count==0){
+            vip=nums[i];
+        }
+        if(nums[i]==vip){
+           count++;
+        }
+        else{
+            count--;
+        }
+       }
+       return vip;
+
+        // Arrays.sort(nums);
+        // int n = nums.length;
+        // return nums[n/2];
 }
 }
