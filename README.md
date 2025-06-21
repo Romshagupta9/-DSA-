@@ -43,6 +43,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0075-sort-colors](https://github.com/Romshagupta9/-DSA-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Romshagupta9/-DSA-/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Romshagupta9/-DSA-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Romshagupta9/-DSA-/tree/master/0443-string-compression) |
@@ -93,6 +94,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Romshagupta9/-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Romshagupta9/-DSA-/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Romshagupta9/-DSA-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Romshagupta9/-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0283-move-zeroes) |
@@ -169,6 +171,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0048-rotate-image](https://github.com/Romshagupta9/-DSA-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Romshagupta9/-DSA-/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Romshagupta9/-DSA-/tree/master/0189-rotate-array) |
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Romshagupta9/-DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1500-count-largest-group](https://github.com/Romshagupta9/-DSA-/tree/master/1500-count-largest-group) |
