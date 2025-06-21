@@ -16,6 +16,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Romshagupta9/-DSA-/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
@@ -89,6 +90,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0075-sort-colors](https://github.com/Romshagupta9/-DSA-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Romshagupta9/-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Romshagupta9/-DSA-/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Romshagupta9/-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0283-move-zeroes) |
@@ -202,6 +204,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Romshagupta9/-DSA-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -234,6 +237,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0015-3sum](https://github.com/Romshagupta9/-DSA-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Romshagupta9/-DSA-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Romshagupta9/-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -283,6 +287,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Graph
 |  |
