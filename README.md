@@ -70,6 +70,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2470-removing-stars-from-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2470-removing-stars-from-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Romshagupta9/-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3617-find-the-original-typed-string-i](https://github.com/Romshagupta9/-DSA-/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
