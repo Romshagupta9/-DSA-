@@ -22,6 +22,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Romshagupta9/-DSA-/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2915-count-of-interesting-subarrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Romshagupta9/-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -113,6 +114,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Romshagupta9/-DSA-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Romshagupta9/-DSA-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Romshagupta9/-DSA-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/Romshagupta9/-DSA-/tree/master/1656-count-good-triplets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Romshagupta9/-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -308,6 +310,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Graph
 |  |
 | ------- |
