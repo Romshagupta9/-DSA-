@@ -109,6 +109,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0238-product-of-array-except-self](https://github.com/Romshagupta9/-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/Romshagupta9/-DSA-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Romshagupta9/-DSA-/tree/master/0643-maximum-average-subarray-i) |
