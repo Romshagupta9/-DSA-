@@ -142,6 +142,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2915-count-of-interesting-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Romshagupta9/-DSA-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Romshagupta9/-DSA-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Romshagupta9/-DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Romshagupta9/-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Romshagupta9/-DSA-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -158,6 +159,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Romshagupta9/-DSA-/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Romshagupta9/-DSA-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3618-find-the-original-typed-string-ii) |
 ## Tree
 |  |
