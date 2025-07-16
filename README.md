@@ -114,6 +114,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0209-minimum-size-subarray-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Romshagupta9/-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Romshagupta9/-DSA-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
@@ -315,6 +316,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/Romshagupta9/-DSA-/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Romshagupta9/-DSA-/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Romshagupta9/-DSA-/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Romshagupta9/-DSA-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
