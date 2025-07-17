@@ -18,9 +18,9 @@ class Solution {
         maxlen=Math.max(count,maxlen);
         if (j - i == k && isVowel(arr[i])) {
                 count--;
-     }
-    }
        }
+    }
+}
      return maxlen;
 
 }
