@@ -18,6 +18,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0073-set-matrix-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Romshagupta9/-DSA-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Romshagupta9/-DSA-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Romshagupta9/-DSA-/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
@@ -73,6 +74,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0038-count-and-say](https://github.com/Romshagupta9/-DSA-/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Romshagupta9/-DSA-/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Romshagupta9/-DSA-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Romshagupta9/-DSA-/tree/master/0383-ransom-note) |
