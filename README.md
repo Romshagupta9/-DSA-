@@ -20,6 +20,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Romshagupta9/-DSA-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Romshagupta9/-DSA-/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Romshagupta9/-DSA-/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
@@ -76,6 +77,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Romshagupta9/-DSA-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Romshagupta9/-DSA-/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Romshagupta9/-DSA-/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0392-is-subsequence) |
