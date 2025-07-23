@@ -171,6 +171,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2280-count-good-triplets-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Romshagupta9/-DSA-/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Romshagupta9/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Romshagupta9/-DSA-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -318,6 +319,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/Romshagupta9/-DSA-/tree/master/2479-meeting-rooms-iii) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Romshagupta9/-DSA-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Romshagupta9/-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
@@ -337,6 +339,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Romshagupta9/-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2479-meeting-rooms-iii](https://github.com/Romshagupta9/-DSA-/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Romshagupta9/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Breadth-First Search
 |  |
@@ -424,6 +427,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Romshagupta9/-DSA-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Romshagupta9/-DSA-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Romshagupta9/-DSA-/tree/master/2479-meeting-rooms-iii) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Romshagupta9/-DSA-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Romshagupta9/-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Matrix
@@ -431,6 +435,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0048-rotate-image](https://github.com/Romshagupta9/-DSA-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0073-set-matrix-zeroes) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Bit Manipulation
 |  |
 | ------- |
