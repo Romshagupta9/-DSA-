@@ -95,6 +95,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Romshagupta9/-DSA-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Romshagupta9/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Romshagupta9/-DSA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Romshagupta9/-DSA-/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Romshagupta9/-DSA-/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -113,6 +114,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0503-next-greater-element-ii) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2470-removing-stars-from-a-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Romshagupta9/-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -368,6 +370,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Romshagupta9/-DSA-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Romshagupta9/-DSA-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Romshagupta9/-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Romshagupta9/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Romshagupta9/-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
