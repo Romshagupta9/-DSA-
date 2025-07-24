@@ -22,8 +22,8 @@ class Solution {
 
         }
         int sum=0;
-        for(int i: record){
-            sum=sum+i;
+        while(!record.isEmpty()){
+            sum+=record.pop();
         }
         return sum;
     }
