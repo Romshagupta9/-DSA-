@@ -26,6 +26,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0383-ransom-note](https://github.com/Romshagupta9/-DSA-/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Romshagupta9/-DSA-/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/Romshagupta9/-DSA-/tree/master/0575-distribute-candies) |
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Romshagupta9/-DSA-/tree/master/1319-unique-number-of-occurrences) |
@@ -144,6 +145,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0485-max-consecutive-ones](https://github.com/Romshagupta9/-DSA-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0503-next-greater-element-ii) |
+| [0575-distribute-candies](https://github.com/Romshagupta9/-DSA-/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Romshagupta9/-DSA-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Romshagupta9/-DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Romshagupta9/-DSA-/tree/master/0682-baseball-game) |
