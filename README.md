@@ -72,6 +72,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0392-is-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Romshagupta9/-DSA-/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/Romshagupta9/-DSA-/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/Romshagupta9/-DSA-/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/Romshagupta9/-DSA-/tree/master/1894-merge-strings-alternately) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Romshagupta9/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -93,6 +94,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0409-longest-palindrome](https://github.com/Romshagupta9/-DSA-/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Romshagupta9/-DSA-/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/Romshagupta9/-DSA-/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/Romshagupta9/-DSA-/tree/master/0874-backspace-string-compare) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Romshagupta9/-DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Romshagupta9/-DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Romshagupta9/-DSA-/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -118,6 +120,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Romshagupta9/-DSA-/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Romshagupta9/-DSA-/tree/master/0874-backspace-string-compare) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2470-removing-stars-from-a-string) |
@@ -332,6 +335,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Romshagupta9/-DSA-/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Romshagupta9/-DSA-/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/Romshagupta9/-DSA-/tree/master/2479-meeting-rooms-iii) |
