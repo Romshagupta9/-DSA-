@@ -143,6 +143,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0053-maximum-subarray](https://github.com/Romshagupta9/-DSA-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Romshagupta9/-DSA-/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Romshagupta9/-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Romshagupta9/-DSA-/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/Romshagupta9/-DSA-/tree/master/0162-find-peak-element) |
@@ -219,6 +220,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Romshagupta9/-DSA-/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Romshagupta9/-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0416-partition-equal-subset-sum) |
