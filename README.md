@@ -44,6 +44,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2079-delete-duplicate-folders-in-system](https://github.com/Romshagupta9/-DSA-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/Romshagupta9/-DSA-/tree/master/2479-meeting-rooms-iii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/Romshagupta9/-DSA-/tree/master/2689-rearranging-fruits) |
 | [2915-count-of-interesting-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Romshagupta9/-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -202,6 +203,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Romshagupta9/-DSA-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/Romshagupta9/-DSA-/tree/master/2689-rearranging-fruits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Romshagupta9/-DSA-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2915-count-of-interesting-subarrays) |
@@ -386,6 +388,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2479-meeting-rooms-iii](https://github.com/Romshagupta9/-DSA-/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Romshagupta9/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2689-rearranging-fruits](https://github.com/Romshagupta9/-DSA-/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Breadth-First Search
 |  |
@@ -426,6 +429,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1818-maximum-score-from-removing-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Romshagupta9/-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Romshagupta9/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Romshagupta9/-DSA-/tree/master/2689-rearranging-fruits) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Romshagupta9/-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Romshagupta9/-DSA-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
