@@ -92,6 +92,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0020-valid-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Romshagupta9/-DSA-/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Romshagupta9/-DSA-/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/Romshagupta9/-DSA-/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Romshagupta9/-DSA-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
@@ -124,6 +125,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Romshagupta9/-DSA-/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
