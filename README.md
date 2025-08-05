@@ -25,6 +25,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Romshagupta9/-DSA-/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Romshagupta9/-DSA-/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Romshagupta9/-DSA-/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -77,6 +78,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0283-move-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Romshagupta9/-DSA-/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/Romshagupta9/-DSA-/tree/master/0868-push-dominoes) |
@@ -162,6 +164,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0283-move-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -329,6 +332,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Romshagupta9/-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Romshagupta9/-DSA-/tree/master/0374-guess-number-higher-or-lower) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Romshagupta9/-DSA-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
@@ -389,6 +393,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0217-contains-duplicate](https://github.com/Romshagupta9/-DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Romshagupta9/-DSA-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
