@@ -304,6 +304,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0202-happy-number](https://github.com/Romshagupta9/-DSA-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Romshagupta9/-DSA-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Romshagupta9/-DSA-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Romshagupta9/-DSA-/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Romshagupta9/-DSA-/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Romshagupta9/-DSA-/tree/master/0900-reordered-power-of-2) |
@@ -339,6 +340,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0050-powx-n](https://github.com/Romshagupta9/-DSA-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Romshagupta9/-DSA-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Romshagupta9/-DSA-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Romshagupta9/-DSA-/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Romshagupta9/-DSA-/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/Romshagupta9/-DSA-/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Romshagupta9/-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -539,6 +541,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Romshagupta9/-DSA-/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Romshagupta9/-DSA-/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Romshagupta9/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Romshagupta9/-DSA-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
