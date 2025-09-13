@@ -56,6 +56,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Romshagupta9/-DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Romshagupta9/-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Romshagupta9/-DSA-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Romshagupta9/-DSA-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Romshagupta9/-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/Romshagupta9/-DSA-/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3618-find-the-original-typed-string-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Romshagupta9/-DSA-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -538,6 +540,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Romshagupta9/-DSA-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Graph
 |  |
 | ------- |
