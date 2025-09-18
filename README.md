@@ -57,6 +57,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3548-find-the-count-of-good-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Romshagupta9/-DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Romshagupta9/-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/Romshagupta9/-DSA-/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Romshagupta9/-DSA-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Romshagupta9/-DSA-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -418,6 +419,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
+| [3678-design-task-manager](https://github.com/Romshagupta9/-DSA-/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Romshagupta9/-DSA-/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
@@ -568,6 +570,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Romshagupta9/-DSA-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Romshagupta9/-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3678-design-task-manager](https://github.com/Romshagupta9/-DSA-/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
 | ------- |
@@ -597,6 +600,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Romshagupta9/-DSA-/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Romshagupta9/-DSA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3678-design-task-manager](https://github.com/Romshagupta9/-DSA-/tree/master/3678-design-task-manager) |
 ## Memoization
 |  |
 | ------- |
