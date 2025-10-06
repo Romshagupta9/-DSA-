@@ -201,6 +201,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0682-baseball-game](https://github.com/Romshagupta9/-DSA-/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Romshagupta9/-DSA-/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Romshagupta9/-DSA-/tree/master/0735-asteroid-collision) |
+| [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Romshagupta9/-DSA-/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Romshagupta9/-DSA-/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -314,6 +315,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0226-invert-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Romshagupta9/-DSA-/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Romshagupta9/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -403,6 +405,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0350-intersection-of-two-arrays-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Romshagupta9/-DSA-/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/Romshagupta9/-DSA-/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Romshagupta9/-DSA-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -496,6 +499,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0226-invert-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Romshagupta9/-DSA-/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Romshagupta9/-DSA-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Sliding Window
@@ -585,6 +589,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Romshagupta9/-DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Heap (Priority Queue)
 |  |
@@ -592,6 +597,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0407-trapping-rain-water-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Romshagupta9/-DSA-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Romshagupta9/-DSA-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Romshagupta9/-DSA-/tree/master/2479-meeting-rooms-iii) |
@@ -607,6 +613,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0407-trapping-rain-water-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Romshagupta9/-DSA-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Romshagupta9/-DSA-/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Romshagupta9/-DSA-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Romshagupta9/-DSA-/tree/master/1628-count-submatrices-with-all-ones) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
