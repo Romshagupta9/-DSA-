@@ -272,6 +272,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Romshagupta9/-DSA-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Romshagupta9/-DSA-/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Romshagupta9/-DSA-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -468,6 +469,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3336-water-bottles-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Romshagupta9/-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Romshagupta9/-DSA-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -565,6 +567,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2915-count-of-interesting-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2915-count-of-interesting-subarrays) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Romshagupta9/-DSA-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Romshagupta9/-DSA-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Trie
 |  |
 | ------- |
