@@ -54,6 +54,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2689-rearranging-fruits](https://github.com/Romshagupta9/-DSA-/tree/master/2689-rearranging-fruits) |
 | [2915-count-of-interesting-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Romshagupta9/-DSA-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Romshagupta9/-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Romshagupta9/-DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -97,6 +98,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Romshagupta9/-DSA-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Romshagupta9/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Romshagupta9/-DSA-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
@@ -260,6 +262,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3242-count-elements-with-maximum-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Romshagupta9/-DSA-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Romshagupta9/-DSA-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Romshagupta9/-DSA-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Romshagupta9/-DSA-/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Romshagupta9/-DSA-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -295,6 +298,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Romshagupta9/-DSA-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Romshagupta9/-DSA-/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Romshagupta9/-DSA-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Romshagupta9/-DSA-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3618-find-the-original-typed-string-ii) |
@@ -423,6 +427,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Romshagupta9/-DSA-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Romshagupta9/-DSA-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Romshagupta9/-DSA-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Romshagupta9/-DSA-/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
@@ -502,6 +507,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2689-rearranging-fruits](https://github.com/Romshagupta9/-DSA-/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2887-sort-vowels-in-a-string) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Romshagupta9/-DSA-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -596,6 +602,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Romshagupta9/-DSA-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Romshagupta9/-DSA-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Graph
 |  |
