@@ -1,10 +1,10 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-        List<String> ans=new ArrayList<>();
+        List<String> ls= new ArrayList<>();
         if(digits.length()==0){
-            return ans;
+            return ls;
         }
-        HashMap<Character,String> hm=new HashMap<>();
+        HashMap <Character,String> hm= new HashMap<>();
         hm.put('2',"abc");
         hm.put('3',"def");
         hm.put('4',"ghi");
@@ -14,22 +14,20 @@ class Solution {
         hm.put('8',"tuv");
         hm.put('9',"wxyz");
 
-        helper(0,digits,hm,new StringBuilder(),ans);
-        return ans;
-    } 
-    public void helper(int i,String digits,HashMap<Character,String> hm,       StringBuilder sb,List<String> ans){
+        helper(hm,digits,new StringBuilder(),ls,0);
+        return ls;
+    }
+
+    public void helper(HashMap<Character,String> hm,String digits,StringBuilder sb,List<String> ls,int i){
         if(i==digits.length()){
-            ans.add(sb.toString());
-            return;
+            ls.add(sb.toString());
+            return ;
         }
         String curr=hm.get(digits.charAt(i));
         for(int k=0;k<curr.length();k++){
             sb.append(curr.charAt(k));
-            helper(i+1,digits,hm,sb,ans);
+            helper(hm,digits,sb,ls,i+1);
             sb.deleteCharAt(sb.length()-1);
         }
     }
-} 
-
-
-
+}
