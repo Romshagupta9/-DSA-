@@ -106,6 +106,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0005-longest-palindromic-substring](https://github.com/Romshagupta9/-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Romshagupta9/-DSA-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Romshagupta9/-DSA-/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Romshagupta9/-DSA-/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Romshagupta9/-DSA-/tree/master/0071-simplify-path) |
@@ -281,6 +282,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Romshagupta9/-DSA-/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Romshagupta9/-DSA-/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Romshagupta9/-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -680,6 +682,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0022-generate-parentheses) |
 | [0679-24-game](https://github.com/Romshagupta9/-DSA-/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Romshagupta9/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
