@@ -1,53 +1,73 @@
-class Solution {
-    static final int MOD = 1_000_000_007, MAX = 31;
-    static final long[] FACT = new long[MAX], INV_FACT = new long[MAX];
-
-    static {
-        FACT[0] = 1;
-        for (int i = 1; i < MAX; i++) FACT[i] = FACT[i - 1] * i % MOD;
-        INV_FACT[MAX - 1] = pow(FACT[MAX - 1], MOD - 2);
-        for (int i = MAX - 1; i > 0; i--) INV_FACT[i - 1] = INV_FACT[i] * i % MOD;
-    }
-
-    static long pow(long x, int n) {
-        long res = 1;
-        for (; n > 0; n >>= 1, x = x * x % MOD)
-            if ((n & 1) == 1) res = res * x % MOD;
-        return res;
-    }
-
-    public int magicalSum(int m, int k, int[] nums) {
+public class Solution {
+    public int magicalSum(int M, int K, int[] nums) {
+        int MOD = 1_000_000_007;
         int n = nums.length;
-        int[][] pows = new int[n][m + 1];
-        for (int i = 0; i < n; i++) {
-            pows[i][0] = 1;
-            for (int j = 1; j <= m; j++)
-                pows[i][j] = (int) ((long) pows[i][j - 1] * nums[i] % MOD);
+
+        long[] f = new long[M + 1];
+        long[] inverse_f = new long[M + 1];
+        f[0] = 1;
+        for (int i = 1; i <= M; i++) {
+            f[i] = f[i - 1] * i % MOD;
         }
 
-        int[][][][] memo = new int[n][m + 1][m / 2 + 1][k + 1];
-        for (int[][][] a : memo)
-            for (int[][] b : a)
-                for (int[] c : b)
-                    Arrays.fill(c, -1);
+        inverse_f[M] = modPow(f[M], MOD - 2, MOD);
+        for (int i = M; i >= 1; i--) {
+            inverse_f[i - 1] = inverse_f[i] * i % MOD;
+        }
 
-        return (int) (dfs(0, m, 0, k, pows, memo) * FACT[m] % MOD);
-    }
-
-    long dfs(int i, int mLeft, int carry, int kLeft, int[][] pows, int[][][][] memo) {
-        int ones = Integer.bitCount(carry);
-        if (ones + mLeft < kLeft) return 0; // agar baaki bits se k banana possible nahi toh return 0
-        if (i == pows.length) return (mLeft == 0 && ones == kLeft) ? 1 : 0; // base case check
-        if (memo[i][mLeft][carry][kLeft] != -1) return memo[i][mLeft][carry][kLeft]; // memo use karo
-
-        long res = 0;
-        for (int j = 0; j <= mLeft; j++) {
-            int bit = (carry + j) & 1; // current bit nikala (odd/even)
-            if (bit <= kLeft) { // agar bit useful hai
-                long r = dfs(i + 1, mLeft - j, (carry + j) >> 1, kLeft - bit, pows, memo);
-                res = (res + r * pows[i][j] % MOD * INV_FACT[j]) % MOD; // result add karo
+        long[][] pow_nums = new long[n][M + 1];
+        for (int i = 0; i < n; i++) {
+            pow_nums[i][0] = 1;
+            for (int c = 1; c <= M; c++) {
+                pow_nums[i][c] = pow_nums[i][c - 1] * nums[i] % MOD;
             }
         }
-        return memo[i][mLeft][carry][kLeft] = (int) res;
+
+        long[][][][] dp = new long[n + 1][M + 1][K + 1][M + 1];
+        dp[0][0][0][0] = 1;
+        for (int i = 0; i < n; i++) {
+            for (int m1 = 0; m1 <= M; m1++) {
+                for (int k1 = 0; k1 <= K; k1++) {
+                    for (int m2 = 0; m2 <= M; m2++) {
+                        long val = dp[i][m1][k1][m2];
+                        if (val == 0) continue;
+                        for (int c = 0; c <= M - m1; c++) {
+                            int m12 = m1 + c;
+                            int s = c + m2;
+                            int bit = s & 1;
+                            int k2 = k1 + bit;
+                            if (k2 > K) continue;
+                            int m22 = s >> 1;
+                            dp[i + 1][m12][k2][m22] = (dp[i + 1][m12][k2][m22] + val * inverse_f[c] % MOD * pow_nums[i][c] % MOD) % MOD;
+                        }
+                    }
+                }
+            }
+        }
+
+        long ans = 0;
+        for (int k1 = 0; k1 <= K; k1++) {
+            for (int m2 = 0; m2 <= M; m2++) {
+                long val = dp[n][M][k1][m2];
+                if (val == 0) continue;
+                int bits = Integer.bitCount(m2);
+                if (k1 + bits == K) {
+                    ans = (ans + val) % MOD;
+                }
+            }
+        }
+
+        ans = ans * f[M] % MOD;
+        return (int) ans;
+    }
+
+    private long modPow(long a, long e, int mod) {
+        long res = 1;
+        while (e > 0) {
+            if ((e & 1) != 0) res = res * a % mod;
+            a = a * a % mod;
+            e >>= 1;
+        }
+        return res;
     }
 }
