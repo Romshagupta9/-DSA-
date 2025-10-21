@@ -140,6 +140,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1894-merge-strings-alternately](https://github.com/Romshagupta9/-DSA-/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Romshagupta9/-DSA-/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Romshagupta9/-DSA-/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Romshagupta9/-DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Romshagupta9/-DSA-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2470-removing-stars-from-a-string) |
@@ -445,6 +446,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1046-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/Romshagupta9/-DSA-/tree/master/1612-avoid-flood-in-the-city) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Romshagupta9/-DSA-/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Romshagupta9/-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Romshagupta9/-DSA-/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -560,6 +562,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Romshagupta9/-DSA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Romshagupta9/-DSA-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Romshagupta9/-DSA-/tree/master/1813-maximum-erasure-value) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Romshagupta9/-DSA-/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Romshagupta9/-DSA-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Romshagupta9/-DSA-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -599,6 +602,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0724-find-pivot-index](https://github.com/Romshagupta9/-DSA-/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Romshagupta9/-DSA-/tree/master/1833-find-the-highest-altitude) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/Romshagupta9/-DSA-/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2529-range-product-queries-of-powers](https://github.com/Romshagupta9/-DSA-/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Romshagupta9/-DSA-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
