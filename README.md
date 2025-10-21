@@ -135,6 +135,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Romshagupta9/-DSA-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Romshagupta9/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Romshagupta9/-DSA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Romshagupta9/-DSA-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Romshagupta9/-DSA-/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -348,6 +349,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Romshagupta9/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Romshagupta9/-DSA-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Romshagupta9/-DSA-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
 |  |
@@ -402,6 +404,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Romshagupta9/-DSA-/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Romshagupta9/-DSA-/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Romshagupta9/-DSA-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Romshagupta9/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Romshagupta9/-DSA-/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3201-distribute-candies-among-children-ii) |
@@ -543,6 +546,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Romshagupta9/-DSA-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Romshagupta9/-DSA-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Sliding Window
 |  |
 | ------- |
