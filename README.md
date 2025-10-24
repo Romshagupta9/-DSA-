@@ -50,6 +50,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1834-minimum-number-of-people-to-teach](https://github.com/Romshagupta9/-DSA-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Romshagupta9/-DSA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Romshagupta9/-DSA-/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Romshagupta9/-DSA-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2479-meeting-rooms-iii](https://github.com/Romshagupta9/-DSA-/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Romshagupta9/-DSA-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -394,6 +395,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1500-count-largest-group](https://github.com/Romshagupta9/-DSA-/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/Romshagupta9/-DSA-/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/Romshagupta9/-DSA-/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Romshagupta9/-DSA-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Romshagupta9/-DSA-/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -414,6 +416,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1656-count-good-triplets](https://github.com/Romshagupta9/-DSA-/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Romshagupta9/-DSA-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Romshagupta9/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Romshagupta9/-DSA-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2998-count-symmetric-integers](https://github.com/Romshagupta9/-DSA-/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3201-distribute-candies-among-children-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -644,6 +647,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0900-reordered-power-of-2](https://github.com/Romshagupta9/-DSA-/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Romshagupta9/-DSA-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Romshagupta9/-DSA-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Romshagupta9/-DSA-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -733,6 +737,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0079-word-search](https://github.com/Romshagupta9/-DSA-/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/Romshagupta9/-DSA-/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Romshagupta9/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Romshagupta9/-DSA-/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Brainteaser
 |  |
 | ------- |
