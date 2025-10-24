@@ -734,6 +734,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0022-generate-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/Romshagupta9/-DSA-/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Romshagupta9/-DSA-/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/Romshagupta9/-DSA-/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Romshagupta9/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
