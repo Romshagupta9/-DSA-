@@ -394,6 +394,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1448-maximum-69-number](https://github.com/Romshagupta9/-DSA-/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Romshagupta9/-DSA-/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/Romshagupta9/-DSA-/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Romshagupta9/-DSA-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/Romshagupta9/-DSA-/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Romshagupta9/-DSA-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Romshagupta9/-DSA-/tree/master/2307-replace-non-coprime-numbers-in-array) |
