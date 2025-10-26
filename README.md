@@ -186,6 +186,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0039-combination-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Romshagupta9/-DSA-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Romshagupta9/-DSA-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Romshagupta9/-DSA-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0073-set-matrix-zeroes) |
@@ -530,6 +531,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Romshagupta9/-DSA-/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Romshagupta9/-DSA-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Romshagupta9/-DSA-/tree/master/0217-contains-duplicate) |
@@ -741,6 +743,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0039-combination-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Romshagupta9/-DSA-/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Romshagupta9/-DSA-/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Romshagupta9/-DSA-/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/Romshagupta9/-DSA-/tree/master/0679-24-game) |
