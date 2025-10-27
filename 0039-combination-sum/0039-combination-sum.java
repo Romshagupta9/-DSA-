@@ -7,11 +7,11 @@ class Solution {
     }
     private void helper(List<List<Integer>> res,List<Integer> ls
     ,int[] candidates, int target,int i){
-        if(target<0 || i==candidates.length){
-            return;
-        }
         if(target==0){
             res.add(new ArrayList<>(ls));
+            return;
+        }
+        if(target<0 || i==candidates.length){
             return;
         }
         ls.add(candidates[i]);
