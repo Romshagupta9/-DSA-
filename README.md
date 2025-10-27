@@ -201,6 +201,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Romshagupta9/-DSA-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/Romshagupta9/-DSA-/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Romshagupta9/-DSA-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Romshagupta9/-DSA-/tree/master/0228-summary-ranges) |
@@ -750,6 +751,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0047-permutations-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Romshagupta9/-DSA-/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Romshagupta9/-DSA-/tree/master/0079-word-search) |
+| [0216-combination-sum-iii](https://github.com/Romshagupta9/-DSA-/tree/master/0216-combination-sum-iii) |
 | [0679-24-game](https://github.com/Romshagupta9/-DSA-/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Romshagupta9/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Romshagupta9/-DSA-/tree/master/2174-next-greater-numerically-balanced-number) |
