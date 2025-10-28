@@ -19,22 +19,23 @@ class Solution {
         if(root==null){
             return bfs;
         }
-        Queue<TreeNode> q= new LinkedList<>();
+        Queue <TreeNode> q=new LinkedList<>();
         q.add(root);
         while(!q.isEmpty()){
-            List <Integer> n1=new ArrayList<>();
+            List<Integer>ls=new ArrayList<>();
             int size=q.size();
-            for(int i=0;i<size;i++){
-                TreeNode node=q.poll();
-                n1.add(node.val);
-                 if(node.left!=null){
-                    q.add(node.left);
-                 }
-                 if(node.right!=null){
-                    q.add(node.right);
-                 }
+        for(int i=0;i<size;i++){
+            TreeNode n1=new TreeNode();
+            n1=q.poll();
+            ls.add(n1.val);
+            if(n1.left!=null){
+                q.add(n1.left);
             }
-            bfs.add(n1);
+            if(n1.right!=null){
+                q.add(n1.right);
+            } 
+            }
+            bfs.add(ls); 
         }
         return bfs;
     }
