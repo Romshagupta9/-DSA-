@@ -4,9 +4,9 @@ class Solution {
         List<Integer> ls=new ArrayList<>();
         helper(res,ls,k,n,0,0);
         return res;
-    }
-    private void helper(List<List<Integer>> res,List<Integer> ls
-    ,int k, int n,int sum,int i){ 
+    } 
+    private void helper(List<List<Integer>> res,List<Integer> ls,int k,int n
+    ,int sum,int i){
         if(ls.size()==k && sum==n){
             res.add(new ArrayList<>(ls));
             return;
@@ -17,6 +17,6 @@ class Solution {
             helper(res,ls,k,n,sum,j);
             ls.remove(ls.size()-1);
             sum=sum-j;
-        } 
+        }
     }
 }
