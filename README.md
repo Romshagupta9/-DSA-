@@ -356,6 +356,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Romshagupta9/-DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Romshagupta9/-DSA-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -375,6 +376,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Romshagupta9/-DSA-/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -397,6 +399,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Romshagupta9/-DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Math
