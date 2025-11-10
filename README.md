@@ -71,6 +71,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Romshagupta9/-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/Romshagupta9/-DSA-/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Romshagupta9/-DSA-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Romshagupta9/-DSA-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Romshagupta9/-DSA-/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Romshagupta9/-DSA-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -188,6 +189,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Romshagupta9/-DSA-/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2470-removing-stars-from-a-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Romshagupta9/-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Romshagupta9/-DSA-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -327,6 +329,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3790-fruits-into-baskets-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Romshagupta9/-DSA-/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Romshagupta9/-DSA-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Romshagupta9/-DSA-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Romshagupta9/-DSA-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Romshagupta9/-DSA-/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
@@ -587,6 +590,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0503-next-greater-element-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0503-next-greater-element-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Romshagupta9/-DSA-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Romshagupta9/-DSA-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Romshagupta9/-DSA-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -683,6 +687,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Romshagupta9/-DSA-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Romshagupta9/-DSA-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Romshagupta9/-DSA-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
