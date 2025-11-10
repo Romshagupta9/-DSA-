@@ -338,6 +338,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0005-longest-palindromic-substring](https://github.com/Romshagupta9/-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Romshagupta9/-DSA-/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Romshagupta9/-DSA-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Romshagupta9/-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0377-combination-sum-iv](https://github.com/Romshagupta9/-DSA-/tree/master/0377-combination-sum-iv) |
@@ -433,6 +434,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0048-rotate-image](https://github.com/Romshagupta9/-DSA-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Romshagupta9/-DSA-/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Romshagupta9/-DSA-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Romshagupta9/-DSA-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Romshagupta9/-DSA-/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Romshagupta9/-DSA-/tree/master/0231-power-of-two) |
@@ -809,6 +811,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Romshagupta9/-DSA-/tree/master/0070-climbing-stairs) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Romshagupta9/-DSA-/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Interactive
 |  |
