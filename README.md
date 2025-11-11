@@ -136,6 +136,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0409-longest-palindrome](https://github.com/Romshagupta9/-DSA-/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Romshagupta9/-DSA-/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Romshagupta9/-DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/Romshagupta9/-DSA-/tree/master/0868-push-dominoes) |
@@ -229,6 +230,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0417-pacific-atlantic-water-flow](https://github.com/Romshagupta9/-DSA-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Romshagupta9/-DSA-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Romshagupta9/-DSA-/tree/master/0498-diagonal-traverse) |
@@ -344,6 +346,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0377-combination-sum-iv](https://github.com/Romshagupta9/-DSA-/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/Romshagupta9/-DSA-/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Romshagupta9/-DSA-/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Romshagupta9/-DSA-/tree/master/0868-push-dominoes) |
