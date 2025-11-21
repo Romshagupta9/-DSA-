@@ -50,6 +50,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1813-maximum-erasure-value](https://github.com/Romshagupta9/-DSA-/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Romshagupta9/-DSA-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Romshagupta9/-DSA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Romshagupta9/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Romshagupta9/-DSA-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2169-simple-bank-system](https://github.com/Romshagupta9/-DSA-/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Romshagupta9/-DSA-/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -155,6 +156,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1818-maximum-score-from-removing-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Romshagupta9/-DSA-/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Romshagupta9/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Romshagupta9/-DSA-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Romshagupta9/-DSA-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Romshagupta9/-DSA-/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -714,6 +716,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0724-find-pivot-index](https://github.com/Romshagupta9/-DSA-/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Romshagupta9/-DSA-/tree/master/1833-find-the-highest-altitude) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Romshagupta9/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Romshagupta9/-DSA-/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2529-range-product-queries-of-powers](https://github.com/Romshagupta9/-DSA-/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Romshagupta9/-DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -808,6 +811,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0231-power-of-two](https://github.com/Romshagupta9/-DSA-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Romshagupta9/-DSA-/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Romshagupta9/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Romshagupta9/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Romshagupta9/-DSA-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Romshagupta9/-DSA-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
