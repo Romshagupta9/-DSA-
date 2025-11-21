@@ -248,6 +248,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0682-baseball-game](https://github.com/Romshagupta9/-DSA-/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Romshagupta9/-DSA-/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Romshagupta9/-DSA-/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/Romshagupta9/-DSA-/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Romshagupta9/-DSA-/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
@@ -355,6 +356,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0392-is-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0474-ones-and-zeroes) |
+| [0747-min-cost-climbing-stairs](https://github.com/Romshagupta9/-DSA-/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/Romshagupta9/-DSA-/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Romshagupta9/-DSA-/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Romshagupta9/-DSA-/tree/master/0868-push-dominoes) |
