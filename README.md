@@ -219,6 +219,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Romshagupta9/-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Romshagupta9/-DSA-/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Romshagupta9/-DSA-/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Romshagupta9/-DSA-/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Romshagupta9/-DSA-/tree/master/0217-contains-duplicate) |
@@ -352,6 +353,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0070-climbing-stairs](https://github.com/Romshagupta9/-DSA-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Romshagupta9/-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Romshagupta9/-DSA-/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/Romshagupta9/-DSA-/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0416-partition-equal-subset-sum) |
