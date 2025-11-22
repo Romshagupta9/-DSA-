@@ -220,6 +220,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Romshagupta9/-DSA-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Romshagupta9/-DSA-/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Romshagupta9/-DSA-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Romshagupta9/-DSA-/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Romshagupta9/-DSA-/tree/master/0217-contains-duplicate) |
@@ -414,6 +415,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0113-path-sum-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Romshagupta9/-DSA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Romshagupta9/-DSA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -653,6 +655,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Romshagupta9/-DSA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Romshagupta9/-DSA-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -773,6 +776,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Romshagupta9/-DSA-/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Romshagupta9/-DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [3863-power-grid-maintenance](https://github.com/Romshagupta9/-DSA-/tree/master/3863-power-grid-maintenance) |
@@ -801,6 +805,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0048-rotate-image](https://github.com/Romshagupta9/-DSA-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Romshagupta9/-DSA-/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Romshagupta9/-DSA-/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Romshagupta9/-DSA-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Romshagupta9/-DSA-/tree/master/0498-diagonal-traverse) |
