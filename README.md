@@ -263,6 +263,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1046-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Romshagupta9/-DSA-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Romshagupta9/-DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1319-unique-number-of-occurrences](https://github.com/Romshagupta9/-DSA-/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Romshagupta9/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -367,6 +368,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0934-bitwise-ors-of-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1236-n-th-tribonacci-number](https://github.com/Romshagupta9/-DSA-/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Romshagupta9/-DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Romshagupta9/-DSA-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Romshagupta9/-DSA-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Romshagupta9/-DSA-/tree/master/1628-count-submatrices-with-all-ones) |
@@ -634,6 +636,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Romshagupta9/-DSA-/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Romshagupta9/-DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Romshagupta9/-DSA-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Romshagupta9/-DSA-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -700,6 +703,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Romshagupta9/-DSA-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Romshagupta9/-DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Romshagupta9/-DSA-/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Romshagupta9/-DSA-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/Romshagupta9/-DSA-/tree/master/1612-avoid-flood-in-the-city) |
