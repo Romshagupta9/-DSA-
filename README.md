@@ -332,6 +332,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Romshagupta9/-DSA-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Romshagupta9/-DSA-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Romshagupta9/-DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Romshagupta9/-DSA-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Romshagupta9/-DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -498,6 +499,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3201-distribute-candies-among-children-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3336-water-bottles-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3336-water-bottles-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Romshagupta9/-DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Romshagupta9/-DSA-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Romshagupta9/-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
