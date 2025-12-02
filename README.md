@@ -274,6 +274,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1392-find-the-difference-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Romshagupta9/-DSA-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Romshagupta9/-DSA-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Romshagupta9/-DSA-/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Romshagupta9/-DSA-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Romshagupta9/-DSA-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
