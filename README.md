@@ -151,6 +151,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/Romshagupta9/-DSA-/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Romshagupta9/-DSA-/tree/master/0874-backspace-string-compare) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Romshagupta9/-DSA-/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/Romshagupta9/-DSA-/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Romshagupta9/-DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Romshagupta9/-DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -270,6 +271,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0882-peak-index-in-a-mountain-array](https://github.com/Romshagupta9/-DSA-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Romshagupta9/-DSA-/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Romshagupta9/-DSA-/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/Romshagupta9/-DSA-/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Romshagupta9/-DSA-/tree/master/1018-binary-prefix-divisible-by-5) |
