@@ -306,6 +306,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1833-find-the-highest-altitude](https://github.com/Romshagupta9/-DSA-/tree/master/1833-find-the-highest-altitude) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Romshagupta9/-DSA-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Romshagupta9/-DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Romshagupta9/-DSA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Romshagupta9/-DSA-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Romshagupta9/-DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -477,6 +478,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Romshagupta9/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Romshagupta9/-DSA-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Romshagupta9/-DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Romshagupta9/-DSA-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Romshagupta9/-DSA-/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Romshagupta9/-DSA-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -609,6 +611,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1046-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/Romshagupta9/-DSA-/tree/master/1612-avoid-flood-in-the-city) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Romshagupta9/-DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Romshagupta9/-DSA-/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Romshagupta9/-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
@@ -738,6 +741,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Romshagupta9/-DSA-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Romshagupta9/-DSA-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Romshagupta9/-DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/Romshagupta9/-DSA-/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
@@ -864,6 +868,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0200-number-of-islands](https://github.com/Romshagupta9/-DSA-/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Romshagupta9/-DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Romshagupta9/-DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3863-power-grid-maintenance](https://github.com/Romshagupta9/-DSA-/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
@@ -899,6 +904,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0840-magic-squares-in-grid](https://github.com/Romshagupta9/-DSA-/tree/master/0840-magic-squares-in-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Romshagupta9/-DSA-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Romshagupta9/-DSA-/tree/master/1628-count-submatrices-with-all-ones) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Romshagupta9/-DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Romshagupta9/-DSA-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Romshagupta9/-DSA-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Romshagupta9/-DSA-/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
