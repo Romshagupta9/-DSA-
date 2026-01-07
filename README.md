@@ -104,6 +104,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0015-3sum](https://github.com/Romshagupta9/-DSA-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Romshagupta9/-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Romshagupta9/-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Romshagupta9/-DSA-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Romshagupta9/-DSA-/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Romshagupta9/-DSA-/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Romshagupta9/-DSA-/tree/master/0141-linked-list-cycle) |
@@ -196,6 +197,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Romshagupta9/-DSA-/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Romshagupta9/-DSA-/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -223,6 +225,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Romshagupta9/-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Romshagupta9/-DSA-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Romshagupta9/-DSA-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Romshagupta9/-DSA-/tree/master/0048-rotate-image) |
@@ -401,6 +404,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Romshagupta9/-DSA-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Romshagupta9/-DSA-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Romshagupta9/-DSA-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Romshagupta9/-DSA-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/0118-pascals-triangle) |
@@ -704,6 +708,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Romshagupta9/-DSA-/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0503-next-greater-element-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Romshagupta9/-DSA-/tree/master/1628-count-submatrices-with-all-ones) |
