@@ -39,6 +39,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/Romshagupta9/-DSA-/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Romshagupta9/-DSA-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Romshagupta9/-DSA-/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Romshagupta9/-DSA-/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Romshagupta9/-DSA-/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -466,6 +467,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Romshagupta9/-DSA-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -492,6 +494,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0417-pacific-atlantic-water-flow](https://github.com/Romshagupta9/-DSA-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Romshagupta9/-DSA-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -522,6 +525,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Romshagupta9/-DSA-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Romshagupta9/-DSA-/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -768,6 +772,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0407-trapping-rain-water-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Romshagupta9/-DSA-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Romshagupta9/-DSA-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Romshagupta9/-DSA-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
