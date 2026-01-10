@@ -154,6 +154,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Romshagupta9/-DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Romshagupta9/-DSA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Romshagupta9/-DSA-/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/Romshagupta9/-DSA-/tree/master/0868-push-dominoes) |
@@ -417,6 +418,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0416-partition-equal-subset-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Romshagupta9/-DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Romshagupta9/-DSA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Romshagupta9/-DSA-/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/Romshagupta9/-DSA-/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Romshagupta9/-DSA-/tree/master/0867-new-21-game) |
