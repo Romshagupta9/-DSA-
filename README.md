@@ -252,6 +252,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0216-combination-sum-iii](https://github.com/Romshagupta9/-DSA-/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Romshagupta9/-DSA-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/Romshagupta9/-DSA-/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Romshagupta9/-DSA-/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Romshagupta9/-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0283-move-zeroes) |
@@ -416,6 +417,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0118-pascals-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Romshagupta9/-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Romshagupta9/-DSA-/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Romshagupta9/-DSA-/tree/master/0221-maximal-square) |
 | [0377-combination-sum-iv](https://github.com/Romshagupta9/-DSA-/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0416-partition-equal-subset-sum) |
@@ -946,6 +948,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0079-word-search](https://github.com/Romshagupta9/-DSA-/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Romshagupta9/-DSA-/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Romshagupta9/-DSA-/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Romshagupta9/-DSA-/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Romshagupta9/-DSA-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Romshagupta9/-DSA-/tree/master/0498-diagonal-traverse) |
