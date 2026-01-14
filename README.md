@@ -372,6 +372,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Romshagupta9/-DSA-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Romshagupta9/-DSA-/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Romshagupta9/-DSA-/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-separate-squares-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Romshagupta9/-DSA-/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Romshagupta9/-DSA-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -659,6 +660,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2618-maximize-the-minimum-powered-city](https://github.com/Romshagupta9/-DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Romshagupta9/-DSA-/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-separate-squares-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Romshagupta9/-DSA-/tree/master/3791-fruits-into-baskets-iii) |
@@ -678,6 +680,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
+| [3454-separate-squares-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Romshagupta9/-DSA-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Romshagupta9/-DSA-/tree/master/3791-fruits-into-baskets-iii) |
@@ -1070,4 +1073,8 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Romshagupta9/-DSA-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
