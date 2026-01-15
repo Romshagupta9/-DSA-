@@ -366,6 +366,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Romshagupta9/-DSA-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2915-count-of-interesting-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Romshagupta9/-DSA-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Romshagupta9/-DSA-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Romshagupta9/-DSA-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Romshagupta9/-DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -771,6 +772,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2689-rearranging-fruits](https://github.com/Romshagupta9/-DSA-/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2887-sort-vowels-in-a-string) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Romshagupta9/-DSA-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Romshagupta9/-DSA-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Romshagupta9/-DSA-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Romshagupta9/-DSA-/tree/master/3433-count-mentions-per-user) |
