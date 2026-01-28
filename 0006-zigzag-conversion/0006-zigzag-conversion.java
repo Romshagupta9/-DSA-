@@ -3,7 +3,7 @@ class Solution {
         if(numRows==1){
             return s;
         }
-        StringBuilder[] sb=new StringBuilder[numRows];
+        StringBuilder [] sb=new StringBuilder[numRows];
         for(int i=0;i<numRows;i++){
             sb[i]=new StringBuilder();
         }
