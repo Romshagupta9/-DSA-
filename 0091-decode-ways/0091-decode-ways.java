@@ -2,9 +2,6 @@ class Solution {
     public int numDecodings(String s) {
         int n=s.length();
         int[] dp=new int[n+1];
-        if(n==0){
-            return 0;
-        }
         dp[0]=1;
         if(s.charAt(0)!='0'){
             dp[1]=1;
