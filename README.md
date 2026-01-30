@@ -150,6 +150,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0058-length-of-last-word](https://github.com/Romshagupta9/-DSA-/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Romshagupta9/-DSA-/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Romshagupta9/-DSA-/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Romshagupta9/-DSA-/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Romshagupta9/-DSA-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
@@ -440,6 +441,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0053-maximum-subarray](https://github.com/Romshagupta9/-DSA-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Romshagupta9/-DSA-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Romshagupta9/-DSA-/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/Romshagupta9/-DSA-/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Romshagupta9/-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Romshagupta9/-DSA-/tree/master/0198-house-robber) |
