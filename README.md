@@ -245,6 +245,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0047-permutations-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Romshagupta9/-DSA-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Romshagupta9/-DSA-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Romshagupta9/-DSA-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Romshagupta9/-DSA-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Romshagupta9/-DSA-/tree/master/0075-sort-colors) |
@@ -442,6 +443,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0022-generate-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Romshagupta9/-DSA-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Romshagupta9/-DSA-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Romshagupta9/-DSA-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Romshagupta9/-DSA-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Romshagupta9/-DSA-/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Romshagupta9/-DSA-/tree/master/0091-decode-ways) |
@@ -862,6 +864,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Romshagupta9/-DSA-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Romshagupta9/-DSA-/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Romshagupta9/-DSA-/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Romshagupta9/-DSA-/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0334-increasing-triplet-subsequence) |
