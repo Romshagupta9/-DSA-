@@ -239,6 +239,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0011-container-with-most-water](https://github.com/Romshagupta9/-DSA-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Romshagupta9/-DSA-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Romshagupta9/-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Romshagupta9/-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Romshagupta9/-DSA-/tree/master/0042-trapping-rain-water) |
@@ -681,6 +682,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Romshagupta9/-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Romshagupta9/-DSA-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Romshagupta9/-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
