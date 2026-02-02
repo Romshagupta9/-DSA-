@@ -9,7 +9,7 @@ class Solution {
                 return m;
             }
             else if(nums[l]<=nums[m]){
-                if(nums[l]<=target && nums[m]>=target){
+                if(nums[l]<=target && target<=nums[m]){
                     h=m-1;
                 }
                 else{
@@ -17,7 +17,7 @@ class Solution {
                 }
             }
             else{
-                if(nums[m]<=target && nums[h]>=target){
+                if(nums[m]<=target && target<=nums[h]){
                     l=m+1;
                 }
                 else{
