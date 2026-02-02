@@ -685,6 +685,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Romshagupta9/-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Romshagupta9/-DSA-/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/Romshagupta9/-DSA-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Romshagupta9/-DSA-/tree/master/0374-guess-number-higher-or-lower) |
@@ -1077,6 +1078,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Romshagupta9/-DSA-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Romshagupta9/-DSA-/tree/master/0374-guess-number-higher-or-lower) |
 ## Hash Function
 |  |
