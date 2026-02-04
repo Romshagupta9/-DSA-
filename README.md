@@ -429,6 +429,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3623-count-number-of-trapezoids-i](https://github.com/Romshagupta9/-DSA-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3637-trionic-array-i](https://github.com/Romshagupta9/-DSA-/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Romshagupta9/-DSA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Romshagupta9/-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Romshagupta9/-DSA-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -498,6 +499,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Romshagupta9/-DSA-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Romshagupta9/-DSA-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3618-find-the-original-typed-string-ii) |
+| [3640-trionic-array-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Romshagupta9/-DSA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Romshagupta9/-DSA-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
