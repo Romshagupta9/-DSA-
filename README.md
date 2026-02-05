@@ -400,6 +400,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Romshagupta9/-DSA-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Romshagupta9/-DSA-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/Romshagupta9/-DSA-/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Romshagupta9/-DSA-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Romshagupta9/-DSA-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Romshagupta9/-DSA-/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -772,6 +773,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Romshagupta9/-DSA-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3336-water-bottles-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/Romshagupta9/-DSA-/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/Romshagupta9/-DSA-/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Romshagupta9/-DSA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Romshagupta9/-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
