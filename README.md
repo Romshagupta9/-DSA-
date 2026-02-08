@@ -27,6 +27,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0219-contains-duplicate-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Romshagupta9/-DSA-/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Romshagupta9/-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Romshagupta9/-DSA-/tree/master/0383-ransom-note) |
@@ -280,6 +281,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0238-product-of-array-except-self](https://github.com/Romshagupta9/-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Romshagupta9/-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0377-combination-sum-iv](https://github.com/Romshagupta9/-DSA-/tree/master/0377-combination-sum-iv) |
@@ -737,6 +739,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0053-maximum-subarray](https://github.com/Romshagupta9/-DSA-/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Romshagupta9/-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Romshagupta9/-DSA-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
@@ -812,6 +815,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Romshagupta9/-DSA-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Romshagupta9/-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Romshagupta9/-DSA-/tree/master/0435-non-overlapping-intervals) |
@@ -985,6 +989,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Romshagupta9/-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Romshagupta9/-DSA-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/0451-sort-characters-by-frequency) |
@@ -1016,6 +1021,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Romshagupta9/-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
@@ -1112,6 +1118,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Romshagupta9/-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
@@ -1170,6 +1177,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Romshagupta9/-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Romshagupta9/-DSA-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Line Sweep
 |  |
