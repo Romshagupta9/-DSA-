@@ -30,6 +30,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Romshagupta9/-DSA-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Romshagupta9/-DSA-/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -158,6 +159,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0290-word-pattern](https://github.com/Romshagupta9/-DSA-/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Romshagupta9/-DSA-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Romshagupta9/-DSA-/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Romshagupta9/-DSA-/tree/master/0409-longest-palindrome) |
@@ -969,6 +971,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/Romshagupta9/-DSA-/tree/master/0969-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Romshagupta9/-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Romshagupta9/-DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -983,6 +986,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Romshagupta9/-DSA-/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Romshagupta9/-DSA-/tree/master/0900-reordered-power-of-2) |
