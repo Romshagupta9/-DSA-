@@ -1,17 +1,16 @@
 class Solution {
     public int jump(int[] nums) {
-        //BFS Soln
-        int n=nums.length;
-        int near=0,far=0,jump=0;
-        while(far< n-1){
+        int near=0,far=0,maxjumps=0;
+        int n=nums.length-1;
+        while(far<n){
             int farthest=0;
             for(int i=near;i<=far;i++){
-                farthest=Math.max(farthest,i+nums[i]);
+                farthest=Math.max(farthest,nums[i]+i);
             }
             near=far+1;
             far=farthest;
-            jump++;
+            maxjumps++;
         }
-        return jump;
+        return maxjumps;
     }
 }
