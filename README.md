@@ -1233,4 +1233,8 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Romshagupta9/-DSA-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Romshagupta9/-DSA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Romshagupta9/-DSA-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Romshagupta9/-DSA-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
