@@ -1243,4 +1243,5 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Romshagupta9/-DSA-/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Romshagupta9/-DSA-/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
