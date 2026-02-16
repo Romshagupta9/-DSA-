@@ -156,6 +156,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0032-longest-valid-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Romshagupta9/-DSA-/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Romshagupta9/-DSA-/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Romshagupta9/-DSA-/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Romshagupta9/-DSA-/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Romshagupta9/-DSA-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Romshagupta9/-DSA-/tree/master/0091-decode-ways) |
@@ -621,6 +622,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0050-powx-n](https://github.com/Romshagupta9/-DSA-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Romshagupta9/-DSA-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Romshagupta9/-DSA-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Romshagupta9/-DSA-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Romshagupta9/-DSA-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Romshagupta9/-DSA-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Romshagupta9/-DSA-/tree/master/0202-happy-number) |
@@ -795,6 +797,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Romshagupta9/-DSA-/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Romshagupta9/-DSA-/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Romshagupta9/-DSA-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Romshagupta9/-DSA-/tree/master/0735-asteroid-collision) |
@@ -1106,6 +1109,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Romshagupta9/-DSA-/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Romshagupta9/-DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Romshagupta9/-DSA-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Romshagupta9/-DSA-/tree/master/0342-power-of-four) |
