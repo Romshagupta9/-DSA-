@@ -290,6 +290,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0228-summary-ranges](https://github.com/Romshagupta9/-DSA-/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Romshagupta9/-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Romshagupta9/-DSA-/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Romshagupta9/-DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/0349-intersection-of-two-arrays) |
@@ -485,6 +486,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Romshagupta9/-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Romshagupta9/-DSA-/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Romshagupta9/-DSA-/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/Romshagupta9/-DSA-/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Romshagupta9/-DSA-/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0416-partition-equal-subset-sum) |
@@ -891,6 +893,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0112-path-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Romshagupta9/-DSA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Romshagupta9/-DSA-/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Romshagupta9/-DSA-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
