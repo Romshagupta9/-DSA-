@@ -307,6 +307,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0496-next-greater-element-i](https://github.com/Romshagupta9/-DSA-/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Romshagupta9/-DSA-/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Romshagupta9/-DSA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Romshagupta9/-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Romshagupta9/-DSA-/tree/master/0575-distribute-candies) |
@@ -492,6 +493,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0416-partition-equal-subset-sum](https://github.com/Romshagupta9/-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Romshagupta9/-DSA-/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0474-ones-and-zeroes) |
+| [0518-coin-change-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Romshagupta9/-DSA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Romshagupta9/-DSA-/tree/master/0747-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/Romshagupta9/-DSA-/tree/master/0799-champagne-tower) |
