@@ -1121,6 +1121,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0231-power-of-two](https://github.com/Romshagupta9/-DSA-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Romshagupta9/-DSA-/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Romshagupta9/-DSA-/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Romshagupta9/-DSA-/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Romshagupta9/-DSA-/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Romshagupta9/-DSA-/tree/master/1018-binary-prefix-divisible-by-5) |
