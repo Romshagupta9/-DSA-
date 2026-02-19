@@ -135,6 +135,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0443-string-compression](https://github.com/Romshagupta9/-DSA-/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Romshagupta9/-DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/Romshagupta9/-DSA-/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/Romshagupta9/-DSA-/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Romshagupta9/-DSA-/tree/master/0874-backspace-string-compare) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Romshagupta9/-DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -174,6 +175,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0474-ones-and-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Romshagupta9/-DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Romshagupta9/-DSA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Romshagupta9/-DSA-/tree/master/0756-pyramid-transition-matrix) |
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
