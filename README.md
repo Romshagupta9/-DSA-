@@ -178,6 +178,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0696-count-binary-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Romshagupta9/-DSA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Romshagupta9/-DSA-/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/Romshagupta9/-DSA-/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Romshagupta9/-DSA-/tree/master/0874-backspace-string-compare) |
@@ -769,6 +770,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0190-reverse-bits](https://github.com/Romshagupta9/-DSA-/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Romshagupta9/-DSA-/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1382-balance-a-binary-search-tree) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Romshagupta9/-DSA-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
@@ -858,6 +860,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0611-valid-triangle-number](https://github.com/Romshagupta9/-DSA-/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Romshagupta9/-DSA-/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Romshagupta9/-DSA-/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/1018-largest-perimeter-triangle) |
