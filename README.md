@@ -1134,6 +1134,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0693-binary-number-with-alternating-bits](https://github.com/Romshagupta9/-DSA-/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Romshagupta9/-DSA-/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Romshagupta9/-DSA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/Romshagupta9/-DSA-/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Romshagupta9/-DSA-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Romshagupta9/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
