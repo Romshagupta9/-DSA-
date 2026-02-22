@@ -337,6 +337,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0944-delete-columns-to-make-sorted](https://github.com/Romshagupta9/-DSA-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Romshagupta9/-DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Romshagupta9/-DSA-/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/Romshagupta9/-DSA-/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Romshagupta9/-DSA-/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -745,6 +746,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0794-swim-in-rising-water](https://github.com/Romshagupta9/-DSA-/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Romshagupta9/-DSA-/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Romshagupta9/-DSA-/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Romshagupta9/-DSA-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Romshagupta9/-DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -925,6 +927,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0643-maximum-average-subarray-i](https://github.com/Romshagupta9/-DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/Romshagupta9/-DSA-/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Romshagupta9/-DSA-/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Romshagupta9/-DSA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Romshagupta9/-DSA-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -993,6 +996,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0238-product-of-array-except-self](https://github.com/Romshagupta9/-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Romshagupta9/-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Romshagupta9/-DSA-/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Romshagupta9/-DSA-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Romshagupta9/-DSA-/tree/master/1590-make-sum-divisible-by-p) |
