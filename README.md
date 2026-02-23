@@ -54,6 +54,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Romshagupta9/-DSA-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Romshagupta9/-DSA-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Romshagupta9/-DSA-/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Romshagupta9/-DSA-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1500-count-largest-group](https://github.com/Romshagupta9/-DSA-/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Romshagupta9/-DSA-/tree/master/1590-make-sum-divisible-by-p) |
@@ -194,6 +195,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Romshagupta9/-DSA-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Romshagupta9/-DSA-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Romshagupta9/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Romshagupta9/-DSA-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Romshagupta9/-DSA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Romshagupta9/-DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Romshagupta9/-DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1147,6 +1149,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0868-binary-gap](https://github.com/Romshagupta9/-DSA-/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Romshagupta9/-DSA-/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Romshagupta9/-DSA-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Romshagupta9/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Romshagupta9/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Romshagupta9/-DSA-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1181,6 +1184,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Hash Function
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Romshagupta9/-DSA-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Romshagupta9/-DSA-/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Bucket Sort
 |  |
@@ -1274,4 +1278,8 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0175-combine-two-tables](https://github.com/Romshagupta9/-DSA-/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Romshagupta9/-DSA-/tree/master/0176-second-highest-salary) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Romshagupta9/-DSA-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
