@@ -16,6 +16,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Romshagupta9/-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Romshagupta9/-DSA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Romshagupta9/-DSA-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Romshagupta9/-DSA-/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Romshagupta9/-DSA-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Romshagupta9/-DSA-/tree/master/0141-linked-list-cycle) |
@@ -159,6 +160,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0022-generate-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Romshagupta9/-DSA-/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Romshagupta9/-DSA-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Romshagupta9/-DSA-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Romshagupta9/-DSA-/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Romshagupta9/-DSA-/tree/master/0071-simplify-path) |
@@ -270,6 +272,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0046-permutations](https://github.com/Romshagupta9/-DSA-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Romshagupta9/-DSA-/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Romshagupta9/-DSA-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Romshagupta9/-DSA-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Romshagupta9/-DSA-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0063-unique-paths-ii) |
@@ -861,6 +864,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [0015-3sum](https://github.com/Romshagupta9/-DSA-/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Romshagupta9/-DSA-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Romshagupta9/-DSA-/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Romshagupta9/-DSA-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/0215-kth-largest-element-in-an-array) |
