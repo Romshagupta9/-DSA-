@@ -197,6 +197,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Romshagupta9/-DSA-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Romshagupta9/-DSA-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Romshagupta9/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Romshagupta9/-DSA-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Romshagupta9/-DSA-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Romshagupta9/-DSA-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Romshagupta9/-DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -827,6 +828,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0682-baseball-game](https://github.com/Romshagupta9/-DSA-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Romshagupta9/-DSA-/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Romshagupta9/-DSA-/tree/master/0874-backspace-string-compare) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Romshagupta9/-DSA-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Romshagupta9/-DSA-/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Romshagupta9/-DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1156,6 +1158,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0868-binary-gap](https://github.com/Romshagupta9/-DSA-/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Romshagupta9/-DSA-/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Romshagupta9/-DSA-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Romshagupta9/-DSA-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Romshagupta9/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Romshagupta9/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
