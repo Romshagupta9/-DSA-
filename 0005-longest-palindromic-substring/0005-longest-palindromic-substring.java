@@ -1,21 +1,21 @@
 class Solution {
     public String longestPalindrome(String s) {
-        String maxstr = s.substring(0,1);
+         String max_str=s.substring(0,1);
         for(int i=0;i<s.length();i++){
-            String odd = ok(s,i,i);
-            String even= ok(s,i,i+1);
-            if(maxstr.length()<odd.length()){
-                maxstr=odd;
+            String odd=ok(s,i,i);//for odd paindrome
+            String even=ok(s,i,i+1);//for even 
+            if(odd.length()>max_str.length()){
+                max_str=odd;
             }
-            if(maxstr.length()<even.length()){
-                maxstr=even;
+            if(even.length()>max_str.length()){
+                max_str=even;
             }
         }
-        return maxstr;
+         return max_str;
     }
-    private String ok(String s,int l,int r){
+    public String ok(String s,int l,int r){
         while(l>=0 && r<s.length() && s.charAt(l)==s.charAt(r)){
-            l--;  //expand 
+            l--;
             r++;
         }
         return s.substring(l+1,r);
