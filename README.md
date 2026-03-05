@@ -187,6 +187,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0756-pyramid-transition-matrix](https://github.com/Romshagupta9/-DSA-/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/Romshagupta9/-DSA-/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/Romshagupta9/-DSA-/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Romshagupta9/-DSA-/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Romshagupta9/-DSA-/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1334,4 +1335,8 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Romshagupta9/-DSA-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
