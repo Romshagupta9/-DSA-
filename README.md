@@ -60,6 +60,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1510-find-lucky-integer-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Romshagupta9/-DSA-/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Romshagupta9/-DSA-/tree/master/1612-avoid-flood-in-the-city) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1813-maximum-erasure-value](https://github.com/Romshagupta9/-DSA-/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Romshagupta9/-DSA-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Romshagupta9/-DSA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -210,6 +211,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Romshagupta9/-DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Romshagupta9/-DSA-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Romshagupta9/-DSA-/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Romshagupta9/-DSA-/tree/master/1903-largest-odd-number-in-string) |
@@ -1094,6 +1096,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0900-reordered-power-of-2](https://github.com/Romshagupta9/-DSA-/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Romshagupta9/-DSA-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Romshagupta9/-DSA-/tree/master/3437-maximum-total-damage-with-spell-casting) |
