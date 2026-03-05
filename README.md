@@ -191,6 +191,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0796-rotate-string](https://github.com/Romshagupta9/-DSA-/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/Romshagupta9/-DSA-/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Romshagupta9/-DSA-/tree/master/0874-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Romshagupta9/-DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Romshagupta9/-DSA-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Romshagupta9/-DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/Romshagupta9/-DSA-/tree/master/1006-vowel-spellchecker) |
@@ -260,6 +261,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0682-baseball-game](https://github.com/Romshagupta9/-DSA-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Romshagupta9/-DSA-/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Romshagupta9/-DSA-/tree/master/0874-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Romshagupta9/-DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Romshagupta9/-DSA-/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1004,6 +1006,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0759-set-intersection-size-at-least-two](https://github.com/Romshagupta9/-DSA-/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Romshagupta9/-DSA-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Romshagupta9/-DSA-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Romshagupta9/-DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
