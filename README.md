@@ -455,6 +455,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Romshagupta9/-DSA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Romshagupta9/-DSA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Romshagupta9/-DSA-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Romshagupta9/-DSA-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Romshagupta9/-DSA-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Romshagupta9/-DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -1081,6 +1082,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2529-range-product-queries-of-powers](https://github.com/Romshagupta9/-DSA-/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Romshagupta9/-DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2915-count-of-interesting-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2915-count-of-interesting-subarrays) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Romshagupta9/-DSA-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Romshagupta9/-DSA-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Romshagupta9/-DSA-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Romshagupta9/-DSA-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -1204,6 +1206,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Romshagupta9/-DSA-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Romshagupta9/-DSA-/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Romshagupta9/-DSA-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Romshagupta9/-DSA-/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Romshagupta9/-DSA-/tree/master/3651-minimum-cost-path-with-teleportations) |
