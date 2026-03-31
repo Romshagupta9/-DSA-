@@ -245,6 +245,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3243-count-the-number-of-powerful-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3396-valid-word](https://github.com/Romshagupta9/-DSA-/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Romshagupta9/-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Romshagupta9/-DSA-/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Romshagupta9/-DSA-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/Romshagupta9/-DSA-/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/Romshagupta9/-DSA-/tree/master/3617-find-the-original-typed-string-i) |
@@ -1073,6 +1074,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3075-maximize-happiness-of-selected-children](https://github.com/Romshagupta9/-DSA-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Romshagupta9/-DSA-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Romshagupta9/-DSA-/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Romshagupta9/-DSA-/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Romshagupta9/-DSA-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Romshagupta9/-DSA-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Romshagupta9/-DSA-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1417,6 +1419,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Romshagupta9/-DSA-/tree/master/0796-rotate-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Romshagupta9/-DSA-/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
