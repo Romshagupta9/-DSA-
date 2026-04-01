@@ -236,6 +236,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Romshagupta9/-DSA-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Romshagupta9/-DSA-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2470-removing-stars-from-a-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Romshagupta9/-DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Romshagupta9/-DSA-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Romshagupta9/-DSA-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2887-sort-vowels-in-a-string) |
@@ -448,6 +449,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Romshagupta9/-DSA-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Romshagupta9/-DSA-/tree/master/2529-range-product-queries-of-powers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Romshagupta9/-DSA-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2573-find-the-string-with-lcp](https://github.com/Romshagupta9/-DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Romshagupta9/-DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -579,6 +581,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Romshagupta9/-DSA-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Romshagupta9/-DSA-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Romshagupta9/-DSA-/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/Romshagupta9/-DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Romshagupta9/-DSA-/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Romshagupta9/-DSA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Romshagupta9/-DSA-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -1067,6 +1070,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1975-maximum-matrix-sum](https://github.com/Romshagupta9/-DSA-/tree/master/1975-maximum-matrix-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Romshagupta9/-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Romshagupta9/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2573-find-the-string-with-lcp](https://github.com/Romshagupta9/-DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Romshagupta9/-DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Romshagupta9/-DSA-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Romshagupta9/-DSA-/tree/master/2689-rearranging-fruits) |
@@ -1230,6 +1234,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Romshagupta9/-DSA-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Romshagupta9/-DSA-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Romshagupta9/-DSA-/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/Romshagupta9/-DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2906-construct-product-matrix](https://github.com/Romshagupta9/-DSA-/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Romshagupta9/-DSA-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1413,6 +1418,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Romshagupta9/-DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Romshagupta9/-DSA-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String Matching
