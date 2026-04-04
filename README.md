@@ -226,6 +226,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1980-find-unique-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Romshagupta9/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Romshagupta9/-DSA-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Romshagupta9/-DSA-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Romshagupta9/-DSA-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Romshagupta9/-DSA-/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -903,6 +904,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1642-water-bottles](https://github.com/Romshagupta9/-DSA-/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Romshagupta9/-DSA-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Romshagupta9/-DSA-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Romshagupta9/-DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Romshagupta9/-DSA-/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/Romshagupta9/-DSA-/tree/master/2211-count-collisions-on-a-road) |
