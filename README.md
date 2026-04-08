@@ -911,6 +911,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1642-water-bottles](https://github.com/Romshagupta9/-DSA-/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Romshagupta9/-DSA-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2069-walking-robot-simulation-ii](https://github.com/Romshagupta9/-DSA-/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Romshagupta9/-DSA-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Romshagupta9/-DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Romshagupta9/-DSA-/tree/master/2169-simple-bank-system) |
@@ -1304,6 +1305,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0969-number-of-recent-calls](https://github.com/Romshagupta9/-DSA-/tree/master/0969-number-of-recent-calls) |
 | [1622-fancy-sequence](https://github.com/Romshagupta9/-DSA-/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Romshagupta9/-DSA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2069-walking-robot-simulation-ii](https://github.com/Romshagupta9/-DSA-/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/Romshagupta9/-DSA-/tree/master/2169-simple-bank-system) |
 | [3678-design-task-manager](https://github.com/Romshagupta9/-DSA-/tree/master/3678-design-task-manager) |
 ## Memoization
