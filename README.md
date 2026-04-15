@@ -242,6 +242,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Romshagupta9/-DSA-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Romshagupta9/-DSA-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2470-removing-stars-from-a-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Romshagupta9/-DSA-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Romshagupta9/-DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Romshagupta9/-DSA-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Romshagupta9/-DSA-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -457,6 +458,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Romshagupta9/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Romshagupta9/-DSA-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Romshagupta9/-DSA-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Romshagupta9/-DSA-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Romshagupta9/-DSA-/tree/master/2529-range-product-queries-of-powers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Romshagupta9/-DSA-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2573-find-the-string-with-lcp](https://github.com/Romshagupta9/-DSA-/tree/master/2573-find-the-string-with-lcp) |
