@@ -108,6 +108,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3721-longest-balanced-subarray-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Romshagupta9/-DSA-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Romshagupta9/-DSA-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Romshagupta9/-DSA-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Romshagupta9/-DSA-/tree/master/3863-power-grid-maintenance) |
@@ -541,6 +542,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Romshagupta9/-DSA-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Romshagupta9/-DSA-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Romshagupta9/-DSA-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3790-fruits-into-baskets-ii) |
@@ -779,6 +781,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3625-count-number-of-trapezoids-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Romshagupta9/-DSA-/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Romshagupta9/-DSA-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Romshagupta9/-DSA-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
