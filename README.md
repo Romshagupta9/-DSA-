@@ -418,6 +418,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Romshagupta9/-DSA-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Romshagupta9/-DSA-/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Romshagupta9/-DSA-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Romshagupta9/-DSA-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Romshagupta9/-DSA-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Romshagupta9/-DSA-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/Romshagupta9/-DSA-/tree/master/1813-maximum-erasure-value) |
@@ -682,6 +683,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Romshagupta9/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Romshagupta9/-DSA-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Romshagupta9/-DSA-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Romshagupta9/-DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Romshagupta9/-DSA-/tree/master/2092-find-all-people-with-secret) |
@@ -1465,6 +1467,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Romshagupta9/-DSA-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Romshagupta9/-DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Romshagupta9/-DSA-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
