@@ -75,6 +75,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2402-meeting-rooms-iii](https://github.com/Romshagupta9/-DSA-/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Romshagupta9/-DSA-/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Romshagupta9/-DSA-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2615-sum-of-distances](https://github.com/Romshagupta9/-DSA-/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Romshagupta9/-DSA-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Romshagupta9/-DSA-/tree/master/2689-rearranging-fruits) |
@@ -470,6 +471,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Romshagupta9/-DSA-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2573-find-the-string-with-lcp](https://github.com/Romshagupta9/-DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2615-sum-of-distances](https://github.com/Romshagupta9/-DSA-/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Romshagupta9/-DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Romshagupta9/-DSA-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1153,6 +1155,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Romshagupta9/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Romshagupta9/-DSA-/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2529-range-product-queries-of-powers](https://github.com/Romshagupta9/-DSA-/tree/master/2529-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/Romshagupta9/-DSA-/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Romshagupta9/-DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2906-construct-product-matrix](https://github.com/Romshagupta9/-DSA-/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/2915-count-of-interesting-subarrays) |
