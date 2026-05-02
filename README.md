@@ -592,6 +592,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0518-coin-change-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Romshagupta9/-DSA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Romshagupta9/-DSA-/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/Romshagupta9/-DSA-/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Romshagupta9/-DSA-/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/Romshagupta9/-DSA-/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Romshagupta9/-DSA-/tree/master/0867-new-21-game) |
@@ -747,6 +748,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0396-rotate-function](https://github.com/Romshagupta9/-DSA-/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/Romshagupta9/-DSA-/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Romshagupta9/-DSA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/Romshagupta9/-DSA-/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/Romshagupta9/-DSA-/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Romshagupta9/-DSA-/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Romshagupta9/-DSA-/tree/master/0830-largest-triangle-area) |
