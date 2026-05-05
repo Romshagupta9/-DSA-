@@ -118,6 +118,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Romshagupta9/-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Romshagupta9/-DSA-/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Romshagupta9/-DSA-/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Romshagupta9/-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0142-linked-list-cycle-ii) |
@@ -133,6 +134,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Romshagupta9/-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Romshagupta9/-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Romshagupta9/-DSA-/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Romshagupta9/-DSA-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Romshagupta9/-DSA-/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Romshagupta9/-DSA-/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Romshagupta9/-DSA-/tree/master/0141-linked-list-cycle) |
