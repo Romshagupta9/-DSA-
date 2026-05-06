@@ -156,6 +156,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0868-push-dominoes](https://github.com/Romshagupta9/-DSA-/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/Romshagupta9/-DSA-/tree/master/0874-backspace-string-compare) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Romshagupta9/-DSA-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Romshagupta9/-DSA-/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Romshagupta9/-DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/Romshagupta9/-DSA-/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Romshagupta9/-DSA-/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -434,6 +435,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1848-minimum-distance-to-the-target-element](https://github.com/Romshagupta9/-DSA-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Romshagupta9/-DSA-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Romshagupta9/-DSA-/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Romshagupta9/-DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Romshagupta9/-DSA-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Romshagupta9/-DSA-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -1300,6 +1302,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Romshagupta9/-DSA-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Romshagupta9/-DSA-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Romshagupta9/-DSA-/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/Romshagupta9/-DSA-/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Romshagupta9/-DSA-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Romshagupta9/-DSA-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Romshagupta9/-DSA-/tree/master/1895-largest-magic-square) |
