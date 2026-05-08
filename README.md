@@ -101,6 +101,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Romshagupta9/-DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Romshagupta9/-DSA-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Romshagupta9/-DSA-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Romshagupta9/-DSA-/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/Romshagupta9/-DSA-/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/Romshagupta9/-DSA-/tree/master/3713-longest-balanced-substring-i) |
@@ -542,6 +543,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Romshagupta9/-DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Romshagupta9/-DSA-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Romshagupta9/-DSA-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Romshagupta9/-DSA-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Romshagupta9/-DSA-/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3640-trionic-array-ii) |
@@ -806,6 +808,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Romshagupta9/-DSA-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Romshagupta9/-DSA-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Romshagupta9/-DSA-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -1074,6 +1077,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Romshagupta9/-DSA-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Romshagupta9/-DSA-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Romshagupta9/-DSA-/tree/master/2092-find-all-people-with-secret) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Romshagupta9/-DSA-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/Romshagupta9/-DSA-/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
@@ -1428,6 +1432,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Romshagupta9/-DSA-/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Romshagupta9/-DSA-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Romshagupta9/-DSA-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Romshagupta9/-DSA-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
