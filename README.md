@@ -478,6 +478,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Romshagupta9/-DSA-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Romshagupta9/-DSA-/tree/master/2529-range-product-queries-of-powers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Romshagupta9/-DSA-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Romshagupta9/-DSA-/tree/master/2573-find-the-string-with-lcp) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2615-sum-of-distances](https://github.com/Romshagupta9/-DSA-/tree/master/2615-sum-of-distances) |
@@ -975,6 +976,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2402-meeting-rooms-iii](https://github.com/Romshagupta9/-DSA-/tree/master/2402-meeting-rooms-iii) |
 | [2470-removing-stars-from-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/Romshagupta9/-DSA-/tree/master/2479-meeting-rooms-iii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2553-separate-the-digits-in-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Romshagupta9/-DSA-/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Romshagupta9/-DSA-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2751-robot-collisions](https://github.com/Romshagupta9/-DSA-/tree/master/2751-robot-collisions) |
