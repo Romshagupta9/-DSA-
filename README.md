@@ -407,6 +407,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1262-greatest-sum-divisible-by-three](https://github.com/Romshagupta9/-DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Romshagupta9/-DSA-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Romshagupta9/-DSA-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1306-jump-game-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Romshagupta9/-DSA-/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Romshagupta9/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Romshagupta9/-DSA-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -710,6 +711,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Romshagupta9/-DSA-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Romshagupta9/-DSA-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1382-balance-a-binary-search-tree) |
@@ -1086,6 +1088,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Romshagupta9/-DSA-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Romshagupta9/-DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Romshagupta9/-DSA-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Romshagupta9/-DSA-/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Romshagupta9/-DSA-/tree/master/1559-detect-cycles-in-2d-grid) |
