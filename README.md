@@ -524,6 +524,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3074-apple-redistribution-into-boxes](https://github.com/Romshagupta9/-DSA-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Romshagupta9/-DSA-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/Romshagupta9/-DSA-/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Romshagupta9/-DSA-/tree/master/3161-block-placement-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Romshagupta9/-DSA-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Romshagupta9/-DSA-/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Romshagupta9/-DSA-/tree/master/3225-maximum-score-from-grid-operations) |
@@ -922,6 +923,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Romshagupta9/-DSA-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Romshagupta9/-DSA-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3161-block-placement-queries](https://github.com/Romshagupta9/-DSA-/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Romshagupta9/-DSA-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Romshagupta9/-DSA-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3454-separate-squares-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3454-separate-squares-ii) |
@@ -953,11 +955,13 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/Romshagupta9/-DSA-/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Romshagupta9/-DSA-/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/Romshagupta9/-DSA-/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Romshagupta9/-DSA-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3721-longest-balanced-subarray-ii) |
