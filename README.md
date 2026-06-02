@@ -170,6 +170,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Romshagupta9/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Romshagupta9/-DSA-/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Romshagupta9/-DSA-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Romshagupta9/-DSA-/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -570,6 +571,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3623-count-number-of-trapezoids-i](https://github.com/Romshagupta9/-DSA-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Romshagupta9/-DSA-/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Romshagupta9/-DSA-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Romshagupta9/-DSA-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Romshagupta9/-DSA-/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3640-trionic-array-ii) |
@@ -931,6 +933,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3488-closest-equal-element-queries](https://github.com/Romshagupta9/-DSA-/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Romshagupta9/-DSA-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Romshagupta9/-DSA-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Romshagupta9/-DSA-/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Romshagupta9/-DSA-/tree/master/3791-fruits-into-baskets-iii) |
@@ -1094,6 +1097,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3531-count-covered-buildings](https://github.com/Romshagupta9/-DSA-/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Romshagupta9/-DSA-/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Romshagupta9/-DSA-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Romshagupta9/-DSA-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Romshagupta9/-DSA-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Romshagupta9/-DSA-/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Breadth-First Search
@@ -1204,6 +1208,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Romshagupta9/-DSA-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Romshagupta9/-DSA-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Romshagupta9/-DSA-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Romshagupta9/-DSA-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Romshagupta9/-DSA-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Romshagupta9/-DSA-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
