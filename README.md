@@ -131,6 +131,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0141-linked-list-cycle](https://github.com/Romshagupta9/-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Romshagupta9/-DSA-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Romshagupta9/-DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Romshagupta9/-DSA-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Romshagupta9/-DSA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -167,6 +168,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1861-rotating-the-box](https://github.com/Romshagupta9/-DSA-/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Romshagupta9/-DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/Romshagupta9/-DSA-/tree/master/1894-merge-strings-alternately) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Romshagupta9/-DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Romshagupta9/-DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Romshagupta9/-DSA-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Romshagupta9/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -312,6 +314,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Romshagupta9/-DSA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Romshagupta9/-DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/Romshagupta9/-DSA-/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Romshagupta9/-DSA-/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/2470-removing-stars-from-a-string) |
