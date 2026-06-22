@@ -52,6 +52,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Romshagupta9/-DSA-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Romshagupta9/-DSA-/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Romshagupta9/-DSA-/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Romshagupta9/-DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Romshagupta9/-DSA-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Romshagupta9/-DSA-/tree/master/1319-unique-number-of-occurrences) |
@@ -226,6 +227,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1021-remove-outermost-parentheses](https://github.com/Romshagupta9/-DSA-/tree/master/1021-remove-outermost-parentheses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Romshagupta9/-DSA-/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Romshagupta9/-DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Romshagupta9/-DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Romshagupta9/-DSA-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Romshagupta9/-DSA-/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -1330,6 +1332,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Romshagupta9/-DSA-/tree/master/0900-reordered-power-of-2) |
+| [1189-maximum-number-of-balloons](https://github.com/Romshagupta9/-DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Romshagupta9/-DSA-/tree/master/1781-sum-of-beauty-of-all-substrings) |
