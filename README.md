@@ -696,6 +696,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Romshagupta9/-DSA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/Romshagupta9/-DSA-/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Romshagupta9/-DSA-/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Romshagupta9/-DSA-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Romshagupta9/-DSA-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Romshagupta9/-DSA-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1294,6 +1295,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Romshagupta9/-DSA-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Romshagupta9/-DSA-/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3618-find-the-original-typed-string-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Romshagupta9/-DSA-/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Romshagupta9/-DSA-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3721-longest-balanced-subarray-ii) |
