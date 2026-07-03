@@ -583,6 +583,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3616-make-array-elements-equal-to-zero](https://github.com/Romshagupta9/-DSA-/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Romshagupta9/-DSA-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3620-network-recovery-pathways](https://github.com/Romshagupta9/-DSA-/tree/master/3620-network-recovery-pathways) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Romshagupta9/-DSA-/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Romshagupta9/-DSA-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -692,6 +693,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Romshagupta9/-DSA-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Romshagupta9/-DSA-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3618-find-the-original-typed-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/Romshagupta9/-DSA-/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Romshagupta9/-DSA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/Romshagupta9/-DSA-/tree/master/3660-jump-game-ix) |
@@ -966,6 +968,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3488-closest-equal-element-queries](https://github.com/Romshagupta9/-DSA-/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Romshagupta9/-DSA-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-network-recovery-pathways](https://github.com/Romshagupta9/-DSA-/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Romshagupta9/-DSA-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Romshagupta9/-DSA-/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -1384,6 +1387,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Romshagupta9/-DSA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Romshagupta9/-DSA-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/Romshagupta9/-DSA-/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Romshagupta9/-DSA-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/Romshagupta9/-DSA-/tree/master/3678-design-task-manager) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -1577,12 +1581,14 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Romshagupta9/-DSA-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Romshagupta9/-DSA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Romshagupta9/-DSA-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/Romshagupta9/-DSA-/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Romshagupta9/-DSA-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Romshagupta9/-DSA-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Romshagupta9/-DSA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3620-network-recovery-pathways](https://github.com/Romshagupta9/-DSA-/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Romshagupta9/-DSA-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Database
 |  |
@@ -1630,4 +1636,8 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Romshagupta9/-DSA-/tree/master/1833-maximum-ice-cream-bars) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Romshagupta9/-DSA-/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
