@@ -200,6 +200,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0071-simplify-path](https://github.com/Romshagupta9/-DSA-/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Romshagupta9/-DSA-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Romshagupta9/-DSA-/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/Romshagupta9/-DSA-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Romshagupta9/-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Romshagupta9/-DSA-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Romshagupta9/-DSA-/tree/master/0242-valid-anagram) |
@@ -649,6 +650,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0091-decode-ways](https://github.com/Romshagupta9/-DSA-/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Romshagupta9/-DSA-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Romshagupta9/-DSA-/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Romshagupta9/-DSA-/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Romshagupta9/-DSA-/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Romshagupta9/-DSA-/tree/master/0322-coin-change) |
@@ -1555,6 +1557,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0077-combinations](https://github.com/Romshagupta9/-DSA-/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Romshagupta9/-DSA-/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Romshagupta9/-DSA-/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Romshagupta9/-DSA-/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Romshagupta9/-DSA-/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/Romshagupta9/-DSA-/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Romshagupta9/-DSA-/tree/master/0679-24-game) |
