@@ -406,6 +406,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0575-distribute-candies](https://github.com/Romshagupta9/-DSA-/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Romshagupta9/-DSA-/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Romshagupta9/-DSA-/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Romshagupta9/-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Romshagupta9/-DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/Romshagupta9/-DSA-/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Romshagupta9/-DSA-/tree/master/0682-baseball-game) |
@@ -839,6 +840,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0326-power-of-three](https://github.com/Romshagupta9/-DSA-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Romshagupta9/-DSA-/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/Romshagupta9/-DSA-/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Romshagupta9/-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Romshagupta9/-DSA-/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Romshagupta9/-DSA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Romshagupta9/-DSA-/tree/master/0788-rotated-digits) |
@@ -1135,6 +1137,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/Romshagupta9/-DSA-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Romshagupta9/-DSA-/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Romshagupta9/-DSA-/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Romshagupta9/-DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Romshagupta9/-DSA-/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/Romshagupta9/-DSA-/tree/master/0778-reorganize-string) |
