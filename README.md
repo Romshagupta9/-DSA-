@@ -590,6 +590,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Romshagupta9/-DSA-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Romshagupta9/-DSA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Romshagupta9/-DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Romshagupta9/-DSA-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3531-count-covered-buildings](https://github.com/Romshagupta9/-DSA-/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Romshagupta9/-DSA-/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -903,6 +904,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Romshagupta9/-DSA-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Romshagupta9/-DSA-/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Romshagupta9/-DSA-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Romshagupta9/-DSA-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Romshagupta9/-DSA-/tree/master/3548-find-the-count-of-good-integers) |
@@ -1540,6 +1542,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Romshagupta9/-DSA-/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Romshagupta9/-DSA-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Romshagupta9/-DSA-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Romshagupta9/-DSA-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
