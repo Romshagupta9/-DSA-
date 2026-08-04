@@ -120,6 +120,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3714-longest-balanced-substring-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Romshagupta9/-DSA-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/Romshagupta9/-DSA-/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Romshagupta9/-DSA-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -634,6 +635,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3691-maximum-total-subarray-value-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Romshagupta9/-DSA-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/Romshagupta9/-DSA-/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Romshagupta9/-DSA-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -1212,6 +1214,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [3634-minimum-removals-to-balance-array](https://github.com/Romshagupta9/-DSA-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Romshagupta9/-DSA-/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/Romshagupta9/-DSA-/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
