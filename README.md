@@ -445,6 +445,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1018-binary-prefix-divisible-by-5](https://github.com/Romshagupta9/-DSA-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Romshagupta9/-DSA-/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1140-stone-game-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1140-stone-game-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Romshagupta9/-DSA-/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Romshagupta9/-DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Romshagupta9/-DSA-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -692,6 +693,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0877-stone-game](https://github.com/Romshagupta9/-DSA-/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Romshagupta9/-DSA-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Romshagupta9/-DSA-/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1140-stone-game-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1140-stone-game-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/Romshagupta9/-DSA-/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Romshagupta9/-DSA-/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Romshagupta9/-DSA-/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -873,6 +875,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0900-reordered-power-of-2](https://github.com/Romshagupta9/-DSA-/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Romshagupta9/-DSA-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Romshagupta9/-DSA-/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1140-stone-game-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Romshagupta9/-DSA-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Romshagupta9/-DSA-/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Romshagupta9/-DSA-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1360,6 +1363,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [0724-find-pivot-index](https://github.com/Romshagupta9/-DSA-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Romshagupta9/-DSA-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Romshagupta9/-DSA-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/Romshagupta9/-DSA-/tree/master/1590-make-sum-divisible-by-p) |
@@ -1759,13 +1763,16 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Romshagupta9/-DSA-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Romshagupta9/-DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
