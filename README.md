@@ -273,6 +273,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Romshagupta9/-DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Romshagupta9/-DSA-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Romshagupta9/-DSA-/tree/master/2211-count-collisions-on-a-road) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Romshagupta9/-DSA-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Romshagupta9/-DSA-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Romshagupta9/-DSA-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Romshagupta9/-DSA-/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -517,6 +518,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Romshagupta9/-DSA-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Romshagupta9/-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Romshagupta9/-DSA-/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Romshagupta9/-DSA-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Romshagupta9/-DSA-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Romshagupta9/-DSA-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Romshagupta9/-DSA-/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -1078,6 +1080,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Romshagupta9/-DSA-/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Romshagupta9/-DSA-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/Romshagupta9/-DSA-/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/Romshagupta9/-DSA-/tree/master/3454-separate-squares-ii) |
@@ -1095,6 +1098,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Romshagupta9/-DSA-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Romshagupta9/-DSA-/tree/master/2280-count-good-triplets-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Romshagupta9/-DSA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
