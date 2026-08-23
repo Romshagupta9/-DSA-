@@ -265,6 +265,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Romshagupta9/-DSA-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/Romshagupta9/-DSA-/tree/master/1894-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Romshagupta9/-DSA-/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Romshagupta9/-DSA-/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/Romshagupta9/-DSA-/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Romshagupta9/-DSA-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Romshagupta9/-DSA-/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -911,6 +912,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Romshagupta9/-DSA-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/Romshagupta9/-DSA-/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Romshagupta9/-DSA-/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/Romshagupta9/-DSA-/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Romshagupta9/-DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Romshagupta9/-DSA-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/Romshagupta9/-DSA-/tree/master/2050-count-good-numbers) |
@@ -1352,6 +1354,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1834-minimum-number-of-people-to-teach](https://github.com/Romshagupta9/-DSA-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Romshagupta9/-DSA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Romshagupta9/-DSA-/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Romshagupta9/-DSA-/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/Romshagupta9/-DSA-/tree/master/1975-maximum-matrix-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Romshagupta9/-DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Romshagupta9/-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1796,6 +1799,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1406-stone-game-iii](https://github.com/Romshagupta9/-DSA-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Romshagupta9/-DSA-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Romshagupta9/-DSA-/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Romshagupta9/-DSA-/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
