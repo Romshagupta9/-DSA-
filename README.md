@@ -515,6 +515,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Romshagupta9/-DSA-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Romshagupta9/-DSA-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Romshagupta9/-DSA-/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Romshagupta9/-DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Romshagupta9/-DSA-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Romshagupta9/-DSA-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Romshagupta9/-DSA-/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1358,6 +1359,7 @@ Feel free to check out the solutions and suggest improvements! 🚀
 | [1903-largest-odd-number-in-string](https://github.com/Romshagupta9/-DSA-/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Romshagupta9/-DSA-/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/Romshagupta9/-DSA-/tree/master/1975-maximum-matrix-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Romshagupta9/-DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Romshagupta9/-DSA-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Romshagupta9/-DSA-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Romshagupta9/-DSA-/tree/master/2497-maximum-matching-of-players-with-trainers) |
